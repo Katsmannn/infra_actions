@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-# qqqqqqqqqq
+# qqqqqqqqqqdfgsd
 
 def index(request):
     return HttpResponse('У меня получилось!')
